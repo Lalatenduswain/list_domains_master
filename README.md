@@ -1,6 +1,3 @@
-Here's a `README.md` file for your GitHub repository. It includes all necessary details and steps for using the script:
-
-```markdown
 # List Domains Master Script
 
 This repository contains a master script that lists all domain names configured for various web servers, including Apache HTTP Server, Nginx, Lighttpd, Caddy, Apache Tomcat, and Cherokee. The script is designed to be flexible and user-friendly, allowing you to choose which web server configuration to query.
